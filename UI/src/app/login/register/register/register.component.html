@@ -1,0 +1,48 @@
+<div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh;">
+  <div class="card" style="width: 20rem;">
+    <div class="card-body">
+      <h2 class="card-title text-center mb-4">Register</h2>
+      <form (ngSubmit)="onRegister()">
+        <div class="mb-3">
+          <label for="username" class="form-label">Username</label>
+          <input
+            type="text"
+            id="username"
+            name="username"
+            [(ngModel)]="username"
+            class="form-control"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="password" class="form-label">Password</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            [(ngModel)]="password"
+            class="form-control"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="confirmPassword" class="form-label">Confirm Password</label>
+          <input
+            type="password"
+            id="confirmPassword"
+            name="confirmPassword"
+            [(ngModel)]="confirmPassword"
+            class="form-control"
+            required
+          />
+        </div>
+        <button type="submit" class="btn btn-primary w-100">
+          Register
+        </button>
+        <div *ngIf="errorMessage" class="alert alert-danger mt-2">
+          {{ errorMessage }}
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

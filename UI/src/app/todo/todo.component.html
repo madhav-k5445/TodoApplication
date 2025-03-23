@@ -1,0 +1,42 @@
+<div class="container mt-5">
+   <div class="row justify-content-center">
+     <div class="col-md-8 col-lg-6">
+       <div class="card shadow">
+         <div class="card-header bg-primary text-white text-center">
+           <h1 class="h4 mb-0">Todo List</h1>
+         </div>
+         <div class="card-body">
+           <form class="mb-3">
+             <div class="input-group">
+               <input 
+                 type="text" 
+                 class="form-control" 
+                 placeholder="Enter task" 
+                 [(ngModel)]="taskDescription" 
+                 name="taskDescription"
+                 required>
+               <div class="input-group-append">
+                 <button type="button" class="btn btn-outline-primary" (click)="onAdd()">Add</button>
+               </div>
+             </div>
+           </form>
+           <div class="mb-3 text-center">
+             <button type="button" class="btn btn-danger" (click)="onClick()">Delete</button>
+           </div>
+           <ul class="list-group mb-3">
+             <li class="list-group-item" *ngFor="let task of tasks">
+               <span><strong>Id:</strong> {{ task.id }} &nbsp;&nbsp;<strong>Task:</strong> {{ task.description }}</span>
+             </li>
+           </ul>
+           <div *ngIf="errorMessage" class="alert alert-danger">
+             {{ errorMessage }}
+           </div>
+         </div>
+         <div class="card-footer text-right">
+           <button type="button" class="btn btn-secondary" (click)="Logout()">Logout</button>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+ 

@@ -1,0 +1,149 @@
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\appsettings.Development.json
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\appsettings.json
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\TodoApplication.exe
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\TodoApplication.deps.json
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\TodoApplication.runtimeconfig.json
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\TodoApplication.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\TodoApplication.pdb
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Azure.Core.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Azure.Identity.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Memory.Data.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\angular\.net\TodoApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.csproj.AssemblyReference.cache
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.GeneratedMSBuildEditorConfig.editorconfig
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.AssemblyInfoInputs.cache
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.AssemblyInfo.cs
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.csproj.CoreCompileInputs.cache
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cs
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cache
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets\msbuild.TodoApplication.Microsoft.AspNetCore.StaticWebAssets.props
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApplication.props
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApplication.props
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApplication.props
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets.pack.json
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets.build.json
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\staticwebassets.development.json
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\scopedcss\bundle\TodoApplication.styles.css
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.csproj.CopyComplete
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.dll
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\refint\TodoApplication.dll
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.pdb
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\TodoApplication.genruntimeconfig.cache
+M:\angular\.net\TodoApplication\obj\Debug\net7.0\ref\TodoApplication.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\appsettings.Development.json
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\appsettings.json
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\TodoApplication.exe
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\TodoApplication.deps.json
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\TodoApplication.runtimeconfig.json
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\TodoApplication.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\TodoApplication.pdb
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Azure.Core.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Azure.Identity.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.csproj.AssemblyReference.cache
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.AssemblyInfoInputs.cache
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.AssemblyInfo.cs
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.csproj.CoreCompileInputs.cache
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets\msbuild.TodoApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApplication.props
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApplication.props
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApplication.props
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets.build.json
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\staticwebassets.development.json
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\scopedcss\bundle\TodoApplication.styles.css
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.csproj.CopyComplete
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.dll
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\refint\TodoApplication.dll
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.pdb
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\TodoApplication.genruntimeconfig.cache
+D:\madhav profile\TodoApplication\api\obj\Debug\net7.0\ref\TodoApplication.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Humanizer.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\System.CodeDom.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\madhav profile\TodoApplication\api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
